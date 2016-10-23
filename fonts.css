@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'GIUN_TAHOMA';
+  src: url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA.eot'); /* MSIE */
+  src: url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA.eot?#iefix') format('embedded-opentype'),
+       url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA.woff') format('woff'),
+       url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA.ttf')  format('truetype'), /* Safari;Android;iOS */
+  font-weight: normal;
+  font-style: normal;
+}
