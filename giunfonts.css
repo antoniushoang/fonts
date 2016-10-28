@@ -1,0 +1,20 @@
+@charset "utf-8";
+@font-face {
+	font-family: Tahoma; /* GIUN_TAHOMA */
+	src: url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA.eot');
+	src: url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA.eot?#iefix') format('embedded-opentype'),
+	url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: Tahoma; /* GIUN_TAHOMA */
+	src: url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA_BOLD.eot');
+	src: url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA_BOLD.eot?#iefix') format('embedded-opentype'),
+	url('https://raw.githubusercontent.com/antoniushoang/fonts/master/TAHOMA_BOLD.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
+* {
+	font-family: Tahoma !important;
+}
